@@ -1,4 +1,4 @@
-- 👋 Hey there! I’m @gym-rat, based out of India
+- 👋 Hey there! I’m Tushar, based out of India
 - 👀 I’m interested in insight generation & data science
 - 🌱 I’m currently learning Machine Learning
 - 📫 You can reach out to me for Insight generation & basic data science
